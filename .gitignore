@@ -1,0 +1,14 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# IntelliJ
+*.iml
+.idea/
+
+# Project
+*.o
+*.elf
+
+# Bazel
+MODULE.bazel.lock
